@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Revital_TwitterFeed>
+            <version>1</version>
+        </Revital_TwitterFeed>
+    </modules>
+    <global>
+    	<helpers>
+            <twitterfeed>
+                <class>Revital_TwitterFeed_Helper</class>
+            </twitterfeed>
+        </helpers>
+        <blocks>
+             <twitterfeed>
+                <class>Revital_TwitterFeed_Block</class>
+             </twitterfeed>
+        </blocks>
+    </global>
+</config> 

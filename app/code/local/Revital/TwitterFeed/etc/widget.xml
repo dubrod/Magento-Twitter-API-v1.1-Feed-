@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<widgets>
+    <twitterfeed_latest type="twitterfeed/latest"  module="twitterfeed">
+        <name>Latest Tweets</name>
+        <description type="desc">2 Latest Tweets</description>
+    </twitterfeed_latest>
+</widgets> 
